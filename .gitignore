@@ -2,3 +2,7 @@ assets/
 */data/
 *.pth
 test.*
+.DS_Store
+*.csv
+*.png
+*.h5
